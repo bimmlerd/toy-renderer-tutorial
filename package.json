@@ -1,0 +1,19 @@
+{
+  "name": "toy-renderer-tutorial",
+  "version": "0.0.1",
+  "description": "A toy rendering engine following a tutorial by MS: \"https://blogs.msdn.microsoft.com/davrous/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimmlerd/toy-renderer-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimmlerd/toy-renderer-tutorial/issues"
+  },
+  "homepage": "https://github.com/bimmlerd/toy-renderer-tutorial#readme"
+}
