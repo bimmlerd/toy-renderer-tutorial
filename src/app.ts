@@ -16,7 +16,7 @@ function init(): void {
     camera = new SoftEngine.Camera();
     device = new SoftEngine.Device(canvas);
 
-    camera.Position = new BABYLON.Vector3(0, 0, -10);
+    camera.Position = new BABYLON.Vector3(0, 0, 10);
     camera.Target = new BABYLON.Vector3(0, 0, 0);
 
     device.LoadJSONFileAsync("data/monkey.babylon", loadJSONCompleted);
